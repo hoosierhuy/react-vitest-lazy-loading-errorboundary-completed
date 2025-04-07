@@ -1,4 +1,4 @@
-# Vite + React Lazy Load + Suspense + ViTest Unit Testing + react-error-boundary [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) Tutorial
+# Vite + React Lazy Load + Suspense + Vitest Unit Testing + react-error-boundary [react-error-boundary](https://www.npmjs.com/package/react-error-boundary) Tutorial
 
 The accompanying YouTube video for this repository is here: [YouTube Video](https://youtu.be/bW1ZXH7Jyz0?si=yvYdsfI60xuym51j)
 
